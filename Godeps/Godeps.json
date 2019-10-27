@@ -1,0 +1,24 @@
+{
+	"ImportPath": "github.com/angrygiraffe/a",
+	"GoVersion": "go1.11",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/angrygiraffe/go-log",
+			"Comment": "v3.0.0-7-g42e7a2a",
+			"Rev": "42e7a2a06baf1d3b03cf627f09f523d51cd45666"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/ssh/terminal",
+			"Rev": "74369b46fc6756741c016591724fd1cb8e26845f"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "d0b11bdaac8adb652bff00e49bcacf992835621a"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/windows",
+			"Rev": "d0b11bdaac8adb652bff00e49bcacf992835621a"
+		}
+	]
+}
